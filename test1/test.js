@@ -1,0 +1,1 @@
+console.log("This is a test file in test1 directory.")
