@@ -5,7 +5,7 @@ accountCity = "New Delhi"; // Implicit global variable
 
 //accountId = 2 not allowed to change because it is declared using const
 
-accountEmail = "sk@madeeasy.in"
+accountEmail = "sk@devops.in"
 accountPassword = "123456789"
 accountCity = "Noida"
 accountState = "Uttar Pradesh" // Implicit global variable  
